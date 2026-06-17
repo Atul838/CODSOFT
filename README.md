@@ -9,4 +9,4 @@ CodSoft Web Development Internship"
 
 ## 🚀 Projects
 ### 📌 Task 1: Personal Portfolio Website
-- Built using HTML and CSS.
+- Built using HTML  CSS and JS
