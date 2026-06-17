@@ -1,7 +1,7 @@
 # CODSOFT
 CodSoft Web Development Internship"
 ## 👤 Intern Details
-- Name: ATUL[span_0]
+- Name: ATUL
 - **Internship ID: BY26RY205131
 - **Domain: Web Development
 
